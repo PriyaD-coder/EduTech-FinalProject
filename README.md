@@ -112,11 +112,28 @@ This will:
 - Save the trained model
 - Generate prediction graph
 
-Output:
+### Output:
 
-```
-models/lstm_model.keras
+# fetch_data.py
+<img width="1918" height="1022" alt="fetch_data_outcome" src="https://github.com/user-attachments/assets/ce7a0ba6-6467-44de-a832-bf03cc73e719" />
+
+# train.py
+<img width="1918" height="1018" alt="train_data_outcome chart" src="https://github.com/user-attachments/assets/06079980-515b-470f-a05b-c9acb34d2fb6" />
+
+# predict.py
+<img width="1918" height="1027" alt="Predict_outcome" src="https://github.com/user-attachments/assets/a2e6d2a7-2f09-4900-aa27-bfa9af09d4a6" />
+
+
 graphs/prediction.png
+<img width="3846" height="1638" alt="prediction" src="https://github.com/user-attachments/assets/c040c7f1-e86e-4984-8cca-f5a70e7e6b87" />
+
+
+# app.py
+<img width="1918" height="1012" alt="app_outcome terminal" src="https://github.com/user-attachments/assets/2c0b6b00-ccc7-48f8-9a61-2f56403fb28c" />
+<img width="1918" height="1018" alt="app_outcome1" src="https://github.com/user-attachments/assets/48ef11a9-1f2e-44c2-bcdf-e3371c2c04de" />
+<img width="1918" height="1017" alt="app_outcome2" src="https://github.com/user-attachments/assets/7058cae5-e79b-467f-a19d-62d0a7e00311" />
+<img width="1918" height="1020" alt="app_outcome3" src="https://github.com/user-attachments/assets/64557c7f-ea1f-483c-9ee5-02d158d60964" />
+
 ```
 
 ---
